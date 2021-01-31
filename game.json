@@ -1,0 +1,179 @@
+{
+  "id": "74f9mzbw9Y",
+  "name": "Exploding Kittens",
+  "handle": "exploding-kittens-card-game",
+  "url": "https://www.boardgameatlas.com/game/74f9mzbw9Y/exploding-kittens-card-game",
+  "price": "19.99",
+  "price_ca": "23.95",
+  "price_uk": "0.00",
+  "msrp": 0,
+  "msrps": [
+    {
+      "country": "US",
+      "price": 0
+    },
+    {
+      "country": "CA",
+      "price": 0
+    },
+    {
+      "country": "UK",
+      "price": 0
+    }
+  ],
+  "discount": "0.00",
+  "min_players": 2,
+  "max_players": 5,
+  "min_playtime": 10,
+  "max_playtime": 20,
+  "min_age": 7,
+  "description": "<p><strong>Exploding Kittens</strong> is a card game for people who are into kittens and explosions and laser beams and sometimes goats.</p>\r\n<p>In this highly-strategic, kitty-powered version of Russian roulette, players draw cards until someone draws an exploding kitten, at which point they explode, they are Dead, and they are out of the game -- unless that player has a defuse card, which can defuse the kitten using things like laser pointers, belly rubs, and catnip sandwiches. All of the other cards in the deck are used to move, mitigate, or avoid the exploding kittens.</p>",
+  "commentary": "",
+  "thumb_url": "https://s3-us-west-1.amazonaws.com/5cc.images/games/uploaded/1559257206847-51osODpsNIL.jpg",
+  "image_url": "https://s3-us-west-1.amazonaws.com/5cc.images/games/uploaded/1559257206847-51osODpsNIL.jpg",
+  "matches_specs": null,
+  "specs": [],
+  "mechanics": [
+    {
+      "id": "WPytek5P8l"
+    },
+    {
+      "id": "BGrhzIN69D"
+    },
+    {
+      "id": "hmipYN1R1I"
+    }
+  ],
+  "categories": [
+    {
+      "id": "MWoxgHrOJD"
+    },
+    {
+      "id": "TYnxiuiI3X"
+    },
+    {
+      "id": "rrvd68LjOR"
+    }
+  ],
+  "developers": [],
+  "artists": [
+    "Matthew Inman",
+    "Elan Lee",
+    "Shane Small"
+  ],
+  "designers": [
+    {
+      "id": "44Q4EsNZre"
+    },
+    {
+      "id": "V5UoNos7lz"
+    },
+    {
+      "id": "gQso5U96Bg"
+    }
+  ],
+  "publishers": [
+    {
+      "id": "wbUt7Br7ex"
+    },
+    {
+      "id": "EzK672818k"
+    },
+    {
+      "id": "tm3Gi5QR8G"
+    },
+    {
+      "id": "1LE7oe5KVZ"
+    },
+    {
+      "id": "RCvCseJ3eL"
+    },
+    {
+      "id": "EMP3ZuSJhp"
+    },
+    {
+      "id": "Fn8zCUvgwd"
+    },
+    {
+      "id": "iCcEfKxF09"
+    },
+    {
+      "id": "sOdfXQmRBg"
+    },
+    {
+      "id": "b33BrKkCsN"
+    },
+    {
+      "id": "1TaoBxZ3GH"
+    },
+    {
+      "id": "UMssR9EGlp"
+    },
+    {
+      "id": "gtEJZ3LsMl"
+    },
+    {
+      "id": "xaTCCXPlby"
+    },
+    {
+      "id": "XHVRIrEpC8"
+    }
+  ],
+  "primary_publisher": {
+    "id": "wbUt7Br7ex",
+    "name": "Ad Magic, Inc.",
+    "url": "https://www.boardgameatlas.com/publisher/wbUt7Br7ex/ad-magic-inc"
+  },
+  "primary_designer": {
+    "id": "44Q4EsNZre",
+    "name": "Elan Lee",
+    "url": "https://www.boardgameatlas.com/designer/44Q4EsNZre/elan-lee"
+  },
+  "names": [],
+  "tags": [
+    "Eksplodujące kotki",
+    "Exploding Kittens بسبس بومبا",
+    "Robbanó cicák",
+    "Výbušná koťátka",
+    "Εκρηκτικά Γατάκια",
+    "Взрывные котята",
+    "חתולים מתפוצצים",
+    "เหมียวระเบิด",
+    "こねこばくはつ",
+    "익스플로딩 키튼",
+    "Exploding Kittens"
+  ],
+  "publisher": "Exploding Kittens",
+  "rules_url": "https://explodingkittens.com/downloads/rules/Exploding-Kittens_Rules.pdf",
+  "reddit_count": 129,
+  "amazon_rank": 34,
+  "official_url": "https://explodingkittens.com/?utm_source=boardgameatlas.com&utm_medium=search&utm_campaign=bga_ads",
+  "comment_count": 1,
+  "num_user_ratings": 241,
+  "average_user_rating": 2.4363301837706457,
+  "active": true,
+  "bgg_id": 172225,
+  "num_user_complexity_votes": 1,
+  "average_learning_complexity": 1,
+  "average_strategy_complexity": 1,
+  "visits": 399,
+  "lists": 494,
+  "plays": 873,
+  "mentions": 15,
+  "links": 5,
+  "rank": 302,
+  "type": "game",
+  "trending_rank": 0,
+  "listing_clicks": 0,
+  "is_historical_low": false,
+  "year_published": 2015,
+  "price_text": "$19.99",
+  "images": {
+    "thumb": "https://d2k4q26owzy373.cloudfront.net/40x40/games/uploaded/1559257206847-51osODpsNIL.jpg",
+    "small": "https://d2k4q26owzy373.cloudfront.net/150x150/games/uploaded/1559257206847-51osODpsNIL.jpg",
+    "medium": "https://d2k4q26owzy373.cloudfront.net/350x350/games/uploaded/1559257206847-51osODpsNIL.jpg",
+    "large": "https://d2k4q26owzy373.cloudfront.net/700x700/games/uploaded/1559257206847-51osODpsNIL.jpg",
+    "original": "https://s3-us-west-1.amazonaws.com/5cc.images/games/uploaded/1559257206847-51osODpsNIL.jpg"
+  },
+  "description_preview": "  Exploding Kittens  is a card game for people who are into kittens and explosions and laser beams and sometimes goats. \r\n In this highly-strategic, kitty-powered version of Russian roulette, players draw cards until someone draws an exploding kitten, at which point they explode, they are Dead, and they are out of the game -- unless that player has a defuse card, which can defuse the kitten using things like laser pointers, belly rubs, and catnip sandwiches. All of the other cards in the deck are used to move, mitigate, or avoid the exploding kittens. "
+}

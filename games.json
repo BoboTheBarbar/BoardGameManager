@@ -1,0 +1,895 @@
+{
+  "games": [
+    {
+      "id": "74f9mzbw9Y",
+      "name": "Exploding Kittens",
+      "handle": "exploding-kittens-card-game",
+      "url": "https://www.boardgameatlas.com/game/74f9mzbw9Y/exploding-kittens-card-game",
+      "price": "19.99",
+      "price_ca": "23.95",
+      "price_uk": "0.00",
+      "msrp": 0,
+      "msrps": [
+        {
+          "country": "US",
+          "price": 0
+        },
+        {
+          "country": "CA",
+          "price": 0
+        },
+        {
+          "country": "UK",
+          "price": 0
+        }
+      ],
+      "discount": "0.00",
+      "min_players": 2,
+      "max_players": 5,
+      "min_playtime": 10,
+      "max_playtime": 20,
+      "min_age": 7,
+      "description": "<p><strong>Exploding Kittens</strong> is a card game for people who are into kittens and explosions and laser beams and sometimes goats.</p>\r\n<p>In this highly-strategic, kitty-powered version of Russian roulette, players draw cards until someone draws an exploding kitten, at which point they explode, they are Dead, and they are out of the game -- unless that player has a defuse card, which can defuse the kitten using things like laser pointers, belly rubs, and catnip sandwiches. All of the other cards in the deck are used to move, mitigate, or avoid the exploding kittens.</p>",
+      "commentary": "",
+      "thumb_url": "https://s3-us-west-1.amazonaws.com/5cc.images/games/uploaded/1559257206847-51osODpsNIL.jpg",
+      "image_url": "https://s3-us-west-1.amazonaws.com/5cc.images/games/uploaded/1559257206847-51osODpsNIL.jpg",
+      "matches_specs": null,
+      "specs": [],
+      "mechanics": [
+        {
+          "id": "WPytek5P8l"
+        },
+        {
+          "id": "BGrhzIN69D"
+        },
+        {
+          "id": "hmipYN1R1I"
+        }
+      ],
+      "categories": [
+        {
+          "id": "MWoxgHrOJD"
+        },
+        {
+          "id": "TYnxiuiI3X"
+        },
+        {
+          "id": "rrvd68LjOR"
+        }
+      ],
+      "developers": [],
+      "artists": [
+        "Matthew Inman",
+        "Elan Lee",
+        "Shane Small"
+      ],
+      "designers": [
+        {
+          "id": "44Q4EsNZre"
+        },
+        {
+          "id": "V5UoNos7lz"
+        },
+        {
+          "id": "gQso5U96Bg"
+        }
+      ],
+      "publishers": [
+        {
+          "id": "wbUt7Br7ex"
+        },
+        {
+          "id": "EzK672818k"
+        },
+        {
+          "id": "tm3Gi5QR8G"
+        },
+        {
+          "id": "1LE7oe5KVZ"
+        },
+        {
+          "id": "RCvCseJ3eL"
+        },
+        {
+          "id": "EMP3ZuSJhp"
+        },
+        {
+          "id": "Fn8zCUvgwd"
+        },
+        {
+          "id": "iCcEfKxF09"
+        },
+        {
+          "id": "sOdfXQmRBg"
+        },
+        {
+          "id": "b33BrKkCsN"
+        },
+        {
+          "id": "1TaoBxZ3GH"
+        },
+        {
+          "id": "UMssR9EGlp"
+        },
+        {
+          "id": "gtEJZ3LsMl"
+        },
+        {
+          "id": "xaTCCXPlby"
+        },
+        {
+          "id": "XHVRIrEpC8"
+        }
+      ],
+      "primary_publisher": {
+        "id": "wbUt7Br7ex",
+        "name": "Ad Magic, Inc.",
+        "url": "https://www.boardgameatlas.com/publisher/wbUt7Br7ex/ad-magic-inc"
+      },
+      "primary_designer": {
+        "id": "44Q4EsNZre",
+        "name": "Elan Lee",
+        "url": "https://www.boardgameatlas.com/designer/44Q4EsNZre/elan-lee"
+      },
+      "names": [],
+      "tags": [
+        "Eksplodujące kotki",
+        "Exploding Kittens بسبس بومبا",
+        "Robbanó cicák",
+        "Výbušná koťátka",
+        "Εκρηκτικά Γατάκια",
+        "Взрывные котята",
+        "חתולים מתפוצצים",
+        "เหมียวระเบิด",
+        "こねこばくはつ",
+        "익스플로딩 키튼",
+        "Exploding Kittens"
+      ],
+      "publisher": "Exploding Kittens",
+      "rules_url": "https://explodingkittens.com/downloads/rules/Exploding-Kittens_Rules.pdf",
+      "reddit_count": 129,
+      "amazon_rank": 34,
+      "official_url": "https://explodingkittens.com/?utm_source=boardgameatlas.com&utm_medium=search&utm_campaign=bga_ads",
+      "comment_count": 1,
+      "num_user_ratings": 241,
+      "average_user_rating": 2.4363301837706457,
+      "active": true,
+      "bgg_id": 172225,
+      "num_user_complexity_votes": 1,
+      "average_learning_complexity": 1,
+      "average_strategy_complexity": 1,
+      "visits": 399,
+      "lists": 494,
+      "plays": 873,
+      "mentions": 15,
+      "links": 5,
+      "rank": 302,
+      "type": "game",
+      "trending_rank": 0,
+      "listing_clicks": 0,
+      "is_historical_low": false,
+      "year_published": 2015,
+      "price_text": "$19.99",
+      "images": {
+        "thumb": "https://d2k4q26owzy373.cloudfront.net/40x40/games/uploaded/1559257206847-51osODpsNIL.jpg",
+        "small": "https://d2k4q26owzy373.cloudfront.net/150x150/games/uploaded/1559257206847-51osODpsNIL.jpg",
+        "medium": "https://d2k4q26owzy373.cloudfront.net/350x350/games/uploaded/1559257206847-51osODpsNIL.jpg",
+        "large": "https://d2k4q26owzy373.cloudfront.net/700x700/games/uploaded/1559257206847-51osODpsNIL.jpg",
+        "original": "https://s3-us-west-1.amazonaws.com/5cc.images/games/uploaded/1559257206847-51osODpsNIL.jpg"
+      },
+      "description_preview": "  Exploding Kittens  is a card game for people who are into kittens and explosions and laser beams and sometimes goats. \r\n In this highly-strategic, kitty-powered version of Russian roulette, players draw cards until someone draws an exploding kitten, at which point they explode, they are Dead, and they are out of the game -- unless that player has a defuse card, which can defuse the kitten using things like laser pointers, belly rubs, and catnip sandwiches. All of the other cards in the deck are used to move, mitigate, or avoid the exploding kittens. "
+    },
+    {
+      "id": "RKBXfWcCjP",
+      "name": "Exploding Kittens: Imploding Kittens",
+      "handle": "exploding-kittens-imploding-kittens",
+      "url": "https://www.boardgameatlas.com/game/RKBXfWcCjP/exploding-kittens-imploding-kittens",
+      "price": "14.99",
+      "price_ca": "8.95",
+      "price_uk": "0.00",
+      "msrp": 0,
+      "msrps": [
+        {
+          "country": "US",
+          "price": 0
+        }
+      ],
+      "discount": "0.00",
+      "min_players": 2,
+      "max_players": 6,
+      "min_playtime": 15,
+      "max_playtime": 0,
+      "min_age": 7,
+      "description": "<p>Imploding Kittens is the first Expansion of Exploding Kittens, the award-winning card game that made Kickstarter history as the most-backed project, ever. This Expansion deck includes 20 new cards featuring 6 new types of actions and an <em>Imploding Kitten</em> which increases the game from 5 to 6 players.</p>",
+      "commentary": "",
+      "thumb_url": "https://s3-us-west-1.amazonaws.com/5cc.images/games/uploaded/1545073908299",
+      "image_url": "https://s3-us-west-1.amazonaws.com/5cc.images/games/uploaded/1545073908299",
+      "matches_specs": null,
+      "specs": [],
+      "mechanics": [
+        {
+          "id": "WPytek5P8l"
+        },
+        {
+          "id": "BGrhzIN69D"
+        },
+        {
+          "id": "hmipYN1R1I"
+        },
+        {
+          "id": "lA3KUtVFCy"
+        },
+        {
+          "id": "T8JEFYwoqy"
+        }
+      ],
+      "categories": [],
+      "developers": [],
+      "artists": [
+        "Matthew Inman"
+      ],
+      "designers": [
+        {
+          "id": "V5UoNos7lz"
+        },
+        {
+          "id": "44Q4EsNZre"
+        },
+        {
+          "id": "gQso5U96Bg"
+        }
+      ],
+      "publishers": [
+        {
+          "id": "gtEJZ3LsMl"
+        }
+      ],
+      "primary_publisher": {
+        "id": "gtEJZ3LsMl",
+        "name": "Rebel Sp. z o.o.",
+        "url": "https://www.boardgameatlas.com/publisher/gtEJZ3LsMl/rebel-sp-z-oo"
+      },
+      "primary_designer": {
+        "name": "Matthew Inman",
+        "id": "V5UoNos7lz",
+        "url": "https://www.boardgameatlas.com/designer/V5UoNos7lz/matthew-inman"
+      },
+      "names": [],
+      "tags": [
+        "Exploding Kittens: Imploding Kittens Expansion",
+        "Imploding Kittens: This is The First Expansion of Exploding Kittens",
+        "Imploding Kittens",
+        "Exploding Kittens: Imploding Kittens Expansion",
+        "Exploding Kittens: Imploding Kittens Exp Board Game",
+        "Imploding Kittens: This is The First Expansion of Exploding Kittens & Streaking Kittens: This is The Second Expansion of Exploding Kittens"
+      ],
+      "publisher": "Rebel",
+      "rules_url": null,
+      "reddit_count": 6,
+      "official_url": "http://www.explodingkittens.com/how?utm_source=boardgameatlas.com&utm_medium=search&utm_campaign=bga_ads",
+      "comment_count": 0,
+      "num_user_ratings": 39,
+      "average_user_rating": 3.102564102564102,
+      "active": true,
+      "bgg_id": 204053,
+      "num_user_complexity_votes": 0,
+      "average_learning_complexity": 0,
+      "average_strategy_complexity": 0,
+      "visits": 148,
+      "lists": 143,
+      "plays": 43,
+      "mentions": 2,
+      "links": 0,
+      "rank": 1106,
+      "type": "expansion",
+      "trending_rank": 0,
+      "listing_clicks": 0,
+      "is_historical_low": false,
+      "year_published": 2016,
+      "price_text": "$14.99",
+      "images": {
+        "thumb": "https://d2k4q26owzy373.cloudfront.net/40x40/games/uploaded/1545073908299",
+        "small": "https://d2k4q26owzy373.cloudfront.net/150x150/games/uploaded/1545073908299",
+        "medium": "https://d2k4q26owzy373.cloudfront.net/350x350/games/uploaded/1545073908299",
+        "large": "https://d2k4q26owzy373.cloudfront.net/700x700/games/uploaded/1545073908299",
+        "original": "https://s3-us-west-1.amazonaws.com/5cc.images/games/uploaded/1545073908299"
+      },
+      "description_preview": " Imploding Kittens is the first Expansion of Exploding Kittens, the award-winning card game that made Kickstarter history as the most-backed project, ever. This Expansion deck includes 20 new cards featuring 6 new types of actions and an  Imploding Kitten  which increases the game from 5 to 6 players. "
+    },
+    {
+      "id": "IuTbDm4I90",
+      "name": "Exploding Kittens: NSFW Edition",
+      "handle": "exploding-kittens-nsfw-edition",
+      "url": "https://www.boardgameatlas.com/game/IuTbDm4I90/exploding-kittens-nsfw-edition",
+      "price": "15.99",
+      "price_ca": "24.95",
+      "price_uk": "0.00",
+      "msrp": 0,
+      "msrps": [
+        {
+          "country": "US",
+          "price": 0
+        }
+      ],
+      "discount": "0.00",
+      "min_players": 2,
+      "max_players": 5,
+      "min_playtime": 10,
+      "max_playtime": 20,
+      "min_age": 18,
+      "description": "<p>Exploding Kittens is a card game for people who are into kittens and explosions and laser beams and sometimes goats. In this highly-strategic, kitty-powered version of Russian Roulette, players draw cards until someone draws an Exploding Kitten, at which point they explode, they are dead, and they are out of the game -- unless that player has a defuse card, which can defuse the Kitten using things like laser pointers, belly rubs, and catnip sandwiches. All of the other cards in the deck are used to move, mitigate, or avoid the Exploding Kittens.</p>\r\n<p>This NSFW version of the game contains the full version of Exploding Kittens, but the artwork on each card has been replaced with content too horrible/amazing to be used in the original Exploding Kittens game. The NSFW Edition can be played with 2 to 5 players or combined with another deck to play with up to 9 players.</p>",
+      "commentary": "",
+      "thumb_url": "https://s3-us-west-1.amazonaws.com/5cc.images/games/uploaded/1559254817080-514Ul8b8K-L.jpg",
+      "image_url": "https://s3-us-west-1.amazonaws.com/5cc.images/games/uploaded/1559254817080-514Ul8b8K-L.jpg",
+      "matches_specs": null,
+      "specs": [],
+      "mechanics": [
+        {
+          "id": "WPytek5P8l"
+        },
+        {
+          "id": "BGrhzIN69D"
+        },
+        {
+          "id": "hmipYN1R1I"
+        },
+        {
+          "id": "lA3KUtVFCy"
+        },
+        {
+          "id": "T8JEFYwoqy"
+        }
+      ],
+      "categories": [],
+      "developers": [],
+      "artists": [
+        "Matthew Inman"
+      ],
+      "designers": [
+        {
+          "id": "V5UoNos7lz"
+        },
+        {
+          "id": "44Q4EsNZre"
+        },
+        {
+          "id": "gQso5U96Bg"
+        }
+      ],
+      "publishers": [
+        {
+          "id": "EMP3ZuSJhp"
+        }
+      ],
+      "primary_publisher": {
+        "id": "EMP3ZuSJhp",
+        "name": "Exploding Kittens",
+        "url": "https://www.boardgameatlas.com/publisher/EMP3ZuSJhp/exploding-kittens"
+      },
+      "primary_designer": {
+        "id": "V5UoNos7lz",
+        "name": "Matthew Inman",
+        "url": "https://www.boardgameatlas.com/designer/V5UoNos7lz/matthew-inman"
+      },
+      "names": [],
+      "tags": [
+        "Exploding Kittens: Edición NSFW",
+        "Výbušná koťátka: Sprostý balíček",
+        "Exploding Kittens edition NSFW FR",
+        "Exploding Kittens NSFW Deck"
+      ],
+      "publisher": "Exploding Kittens LLC",
+      "rules_url": null,
+      "reddit_count": 0,
+      "amazon_rank": 310,
+      "official_url": "https://explodingkittens.com/how-to-play/?utm_source=boardgameatlas.com&utm_medium=search&utm_campaign=bga_ads",
+      "comment_count": 0,
+      "num_user_ratings": 97,
+      "average_user_rating": 2.412371134020619,
+      "active": true,
+      "bgg_id": 172242,
+      "num_user_complexity_votes": 0,
+      "average_learning_complexity": 0,
+      "average_strategy_complexity": 0,
+      "visits": 207,
+      "lists": 255,
+      "plays": 149,
+      "mentions": 0,
+      "links": 2,
+      "rank": 9999999,
+      "type": "game",
+      "trending_rank": 0,
+      "listing_clicks": 0,
+      "is_historical_low": false,
+      "year_published": 2015,
+      "price_text": "$15.99",
+      "images": {
+        "thumb": "https://d2k4q26owzy373.cloudfront.net/40x40/games/uploaded/1559254817080-514Ul8b8K-L.jpg",
+        "small": "https://d2k4q26owzy373.cloudfront.net/150x150/games/uploaded/1559254817080-514Ul8b8K-L.jpg",
+        "medium": "https://d2k4q26owzy373.cloudfront.net/350x350/games/uploaded/1559254817080-514Ul8b8K-L.jpg",
+        "large": "https://d2k4q26owzy373.cloudfront.net/700x700/games/uploaded/1559254817080-514Ul8b8K-L.jpg",
+        "original": "https://s3-us-west-1.amazonaws.com/5cc.images/games/uploaded/1559254817080-514Ul8b8K-L.jpg"
+      },
+      "description_preview": " Exploding Kittens is a card game for people who are into kittens and explosions and laser beams and sometimes goats. In this highly-strategic, kitty-powered version of Russian Roulette, players draw cards until someone draws an Exploding Kitten, at which point they explode, they are dead, and they are out of the game -- unless that player has a defuse card, which can defuse the Kitten using things like laser pointers, belly rubs, and catnip sandwiches. All of the other cards in the deck are used to move, mitigate, or avoid the Exploding Kittens. \r\n This NSFW version of the game contains the full version of Exploding Kittens, but the artwork on each card has been replaced with content too horrible/amazing to be used in the original Exploding Kittens game. The NSFW Edition can be played with 2 to 5 players or combined with another deck to play with up to 9 players. "
+    },
+    {
+      "id": "LgBtSfLM2J",
+      "name": "Exploding Kittens: Party Pack",
+      "handle": "exploding-kittens-party-pack",
+      "url": "https://www.boardgameatlas.com/game/LgBtSfLM2J/exploding-kittens-party-pack",
+      "price": "29.99",
+      "price_ca": "36.95",
+      "price_uk": "0.00",
+      "msrp": "0.00",
+      "discount": "0.00",
+      "min_players": 2,
+      "max_players": 10,
+      "min_playtime": 15,
+      "max_playtime": 15,
+      "min_age": 7,
+      "description": "",
+      "commentary": "",
+      "thumb_url": "https://s3-us-west-1.amazonaws.com/5cc.images/games/uploaded/1560872723127",
+      "image_url": "https://s3-us-west-1.amazonaws.com/5cc.images/games/uploaded/1560872723127",
+      "matches_specs": null,
+      "specs": [],
+      "mechanics": [
+        {
+          "id": "WPytek5P8l"
+        },
+        {
+          "id": "BGrhzIN69D"
+        },
+        {
+          "id": "hmipYN1R1I"
+        },
+        {
+          "id": "lA3KUtVFCy"
+        },
+        {
+          "id": "T8JEFYwoqy"
+        }
+      ],
+      "categories": [],
+      "developers": [],
+      "artists": [
+        "Matthew Inman",
+        "Elan Lee",
+        "Shane Small"
+      ],
+      "designers": [
+        {
+          "id": "V5UoNos7lz"
+        },
+        {
+          "id": "44Q4EsNZre"
+        },
+        {
+          "id": "gQso5U96Bg"
+        }
+      ],
+      "publishers": [
+        {
+          "id": "EMP3ZuSJhp"
+        }
+      ],
+      "primary_publisher": {
+        "name": "Exploding Kittens",
+        "id": "EMP3ZuSJhp",
+        "url": "https://www.boardgameatlas.com/publisher/EMP3ZuSJhp/exploding-kittens"
+      },
+      "primary_designer": {
+        "name": "Matthew Inman",
+        "id": "V5UoNos7lz",
+        "url": "https://www.boardgameatlas.com/designer/V5UoNos7lz/matthew-inman"
+      },
+      "names": [],
+      "tags": [
+        "Exploding Kittens: Party Pack"
+      ],
+      "publisher": null,
+      "rules_url": null,
+      "reddit_count": 0,
+      "official_url": null,
+      "comment_count": 0,
+      "num_user_ratings": 3,
+      "average_user_rating": 3.6666666666666665,
+      "active": true,
+      "bgg_id": 256804,
+      "num_user_complexity_votes": 0,
+      "average_learning_complexity": 0,
+      "average_strategy_complexity": 0,
+      "visits": 123,
+      "lists": 20,
+      "plays": 17,
+      "mentions": 0,
+      "links": 0,
+      "rank": 9999999,
+      "type": "game",
+      "trending_rank": 0,
+      "listing_clicks": 0,
+      "is_historical_low": false,
+      "year_published": 2017,
+      "price_text": "$29.99",
+      "images": {
+        "thumb": "https://d2k4q26owzy373.cloudfront.net/40x40/games/uploaded/1560872723127",
+        "small": "https://d2k4q26owzy373.cloudfront.net/150x150/games/uploaded/1560872723127",
+        "medium": "https://d2k4q26owzy373.cloudfront.net/350x350/games/uploaded/1560872723127",
+        "large": "https://d2k4q26owzy373.cloudfront.net/700x700/games/uploaded/1560872723127",
+        "original": "https://s3-us-west-1.amazonaws.com/5cc.images/games/uploaded/1560872723127"
+      },
+      "description_preview": ""
+    },
+    {
+      "id": "3L5TmRpY56",
+      "name": "Exploding Kittens: Streaking Kittens",
+      "handle": "exploding-kittens-streaking-kittens",
+      "url": "https://www.boardgameatlas.com/game/3L5TmRpY56/exploding-kittens-streaking-kittens",
+      "price": "8.95",
+      "price_ca": "8.95",
+      "price_uk": "0.00",
+      "msrp": 0,
+      "msrps": [
+        {
+          "country": "US",
+          "price": 0
+        }
+      ],
+      "discount": "0.00",
+      "min_players": 2,
+      "max_players": 5,
+      "min_playtime": 15,
+      "max_playtime": 15,
+      "min_age": 7,
+      "description": "<p>Streaking Kittens is the second expansion fox Exploding Kittens, the award-winning card game that made Kickstarter history as the most-backed project, ever.</p>\r\n\r\n<p>This expansion deck includes 15 cards, featuring 8 new types of actions and a <em>Streaking Kitten</em> which allows you to hold an Exploding Kitten in your hand without exploding.</p>",
+      "commentary": "",
+      "thumb_url": "https://s3-us-west-1.amazonaws.com/5cc.images/games/uploaded/1548140709879",
+      "image_url": "https://s3-us-west-1.amazonaws.com/5cc.images/games/uploaded/1548140709879",
+      "matches_specs": null,
+      "specs": [],
+      "mechanics": [
+        {
+          "id": "WPytek5P8l"
+        },
+        {
+          "id": "BGrhzIN69D"
+        },
+        {
+          "id": "hmipYN1R1I"
+        },
+        {
+          "id": "lA3KUtVFCy"
+        },
+        {
+          "id": "T8JEFYwoqy"
+        }
+      ],
+      "categories": [],
+      "developers": [],
+      "artists": [
+        "Matthew Inman",
+        "Elan Lee",
+        "Shane Small"
+      ],
+      "designers": [
+        {
+          "id": "V5UoNos7lz"
+        },
+        {
+          "id": "44Q4EsNZre"
+        },
+        {
+          "id": "gQso5U96Bg"
+        }
+      ],
+      "publishers": [
+        {
+          "id": "yBej8nopRO"
+        }
+      ],
+      "primary_publisher": {
+        "name": "AdMagic Games",
+        "id": "yBej8nopRO",
+        "url": "https://www.boardgameatlas.com/publisher/yBej8nopRO/admagic-games"
+      },
+      "primary_designer": {
+        "name": "Matthew Inman",
+        "id": "V5UoNos7lz",
+        "url": "https://www.boardgameatlas.com/designer/V5UoNos7lz/matthew-inman"
+      },
+      "names": [],
+      "tags": [
+        "Exploding Kittens: Streaking Kittens Expansion",
+        "Exploding Kittens: Streaking Kittens"
+      ],
+      "publisher": "AdMagic Games",
+      "rules_url": null,
+      "reddit_count": 0,
+      "official_url": "https://explodingkittens.com/streaking-kittens/?utm_source=boardgameatlas.com&utm_medium=search&utm_campaign=bga_ads",
+      "comment_count": 0,
+      "num_user_ratings": 14,
+      "average_user_rating": 3.357142857142857,
+      "active": true,
+      "bgg_id": 260214,
+      "num_user_complexity_votes": 0,
+      "average_learning_complexity": 0,
+      "average_strategy_complexity": 0,
+      "visits": 93,
+      "lists": 76,
+      "plays": 11,
+      "mentions": 2,
+      "links": 0,
+      "rank": 9999999,
+      "type": "expansion",
+      "trending_rank": 0,
+      "listing_clicks": 0,
+      "is_historical_low": false,
+      "year_published": 2018,
+      "price_text": "$8.95",
+      "images": {
+        "thumb": "https://d2k4q26owzy373.cloudfront.net/40x40/games/uploaded/1548140709879",
+        "small": "https://d2k4q26owzy373.cloudfront.net/150x150/games/uploaded/1548140709879",
+        "medium": "https://d2k4q26owzy373.cloudfront.net/350x350/games/uploaded/1548140709879",
+        "large": "https://d2k4q26owzy373.cloudfront.net/700x700/games/uploaded/1548140709879",
+        "original": "https://s3-us-west-1.amazonaws.com/5cc.images/games/uploaded/1548140709879"
+      },
+      "description_preview": " Streaking Kittens is the second expansion fox Exploding Kittens, the award-winning card game that made Kickstarter history as the most-backed project, ever. \r\n\r\n This expansion deck includes 15 cards, featuring 8 new types of actions and a  Streaking Kitten  which allows you to hold an Exploding Kitten in your hand without exploding. "
+    },
+    {
+      "id": "YdVP48qRlF",
+      "name": "Exploding Kittens: Barking Kittens",
+      "handle": "exploding-kittens-barking-kittens",
+      "url": "https://www.boardgameatlas.com/game/YdVP48qRlF/exploding-kittens-barking-kittens",
+      "price": "14.95",
+      "price_ca": "19.95",
+      "price_uk": "0.00",
+      "msrp": 0,
+      "msrps": [
+        {
+          "country": "US",
+          "price": 0
+        }
+      ],
+      "discount": "0.00",
+      "min_players": 2,
+      "max_players": 5,
+      "min_playtime": 15,
+      "max_playtime": 15,
+      "min_age": 7,
+      "description": "<p>This is the third expansion for Exploding Kittens. Includes 20 cards and instructions that refresh the core game, adding a new level of strategy and hilarity.</p>\r\n<ul>\r\n<li>Includes a pair of Barking Kittens cards that allow players to combine their hands to one's advantage and the other's disadvantage.</li>\r\n<li>Also includes a wearable crown that allows you to hold a secret hand of cards on your head that no one can see until you decide to release them into the draw pile.</li>\r\n</ul>\r\n<p><em>This is not a standalone game—it requires a copy of Exploding Kittens to play.</em></p>",
+      "commentary": "",
+      "thumb_url": "https://s3-us-west-1.amazonaws.com/5cc.images/games/uploaded/1590166677239",
+      "image_url": "https://s3-us-west-1.amazonaws.com/5cc.images/games/uploaded/1590166677239",
+      "matches_specs": null,
+      "specs": [],
+      "mechanics": [],
+      "categories": [
+        {
+          "id": "MWoxgHrOJD"
+        },
+        {
+          "id": "v4SfYtS2Lr"
+        }
+      ],
+      "developers": [],
+      "artists": [],
+      "designers": [],
+      "publishers": [
+        {
+          "id": "EMP3ZuSJhp"
+        }
+      ],
+      "primary_publisher": {
+        "name": "Exploding Kittens",
+        "id": "EMP3ZuSJhp",
+        "url": "https://www.boardgameatlas.com/publisher/EMP3ZuSJhp/exploding-kittens"
+      },
+      "primary_designer": {},
+      "names": [],
+      "tags": [
+        "Exploding Kittens: Barking Kittens",
+        "Exploding Kittens: Barking Kittens",
+        "Exploding Kittens: Barking Kittens Expansion",
+        "Exploding Kittens Barking Kittens Expansion"
+      ],
+      "publisher": null,
+      "rules_url": null,
+      "reddit_count": 0,
+      "official_url": null,
+      "comment_count": 0,
+      "num_user_ratings": 2,
+      "average_user_rating": 3,
+      "active": true,
+      "bgg_id": 312667,
+      "num_user_complexity_votes": 0,
+      "average_learning_complexity": 0,
+      "average_strategy_complexity": 0,
+      "visits": 63,
+      "lists": 15,
+      "plays": 1,
+      "mentions": 2,
+      "links": 0,
+      "rank": 9999999,
+      "type": "expansion",
+      "trending_rank": 0,
+      "listing_clicks": 0,
+      "is_historical_low": false,
+      "year_published": 2020,
+      "price_text": "$14.95",
+      "images": {
+        "thumb": "https://d2k4q26owzy373.cloudfront.net/40x40/games/uploaded/1590166677239",
+        "small": "https://d2k4q26owzy373.cloudfront.net/150x150/games/uploaded/1590166677239",
+        "medium": "https://d2k4q26owzy373.cloudfront.net/350x350/games/uploaded/1590166677239",
+        "large": "https://d2k4q26owzy373.cloudfront.net/700x700/games/uploaded/1590166677239",
+        "original": "https://s3-us-west-1.amazonaws.com/5cc.images/games/uploaded/1590166677239"
+      },
+      "description_preview": " This is the third expansion for Exploding Kittens. Includes 20 cards and instructions that refresh the core game, adding a new level of strategy and hilarity. \r\n \r\n Includes a pair of Barking Kittens cards that allow players to combine their hands to one's advantage and the other's disadvantage. \r\n Also includes a wearable crown that allows you to hold a secret hand of cards on your head that no one can see until you decide to release them into the draw pile. \r\n \r\n  This is not a standalone game—it requires a copy of Exploding Kittens to play.  "
+    },
+    {
+      "id": "pttjFtdF9X",
+      "name": "Exploding Kittens: Newbie Edition",
+      "handle": "exploding-kittens-promo-edizione-per-neofiti",
+      "url": "https://www.boardgameatlas.com/game/pttjFtdF9X/exploding-kittens-promo-edizione-per-neofiti",
+      "price": "0.00",
+      "price_ca": "0.00",
+      "price_uk": "0.00",
+      "msrp": 0,
+      "msrps": [
+        {
+          "country": "US",
+          "price": 0
+        }
+      ],
+      "discount": "0.00",
+      "min_players": 2,
+      "max_players": 2,
+      "min_playtime": 15,
+      "max_playtime": 15,
+      "min_age": 7,
+      "description": "",
+      "commentary": "",
+      "thumb_url": "https://s3-us-west-1.amazonaws.com/5cc.images/games/empty+box+thumb.jpg",
+      "image_url": "https://s3-us-west-1.amazonaws.com/5cc.images/games/empty+box.jpg",
+      "matches_specs": null,
+      "specs": [],
+      "mechanics": [],
+      "categories": [],
+      "developers": [],
+      "artists": [
+        "Matthew Inman",
+        "Elan Lee",
+        "Shane Small"
+      ],
+      "designers": [
+        {
+          "id": "V5UoNos7lz"
+        },
+        {
+          "id": "44Q4EsNZre"
+        },
+        {
+          "id": "gQso5U96Bg"
+        }
+      ],
+      "publishers": [
+        {
+          "id": "1LE7oe5KVZ"
+        },
+        {
+          "id": "EMP3ZuSJhp"
+        },
+        {
+          "id": "wbUt7Br7ex"
+        }
+      ],
+      "primary_publisher": {
+        "name": "Asmodee",
+        "id": "1LE7oe5KVZ",
+        "url": "https://www.boardgameatlas.com/publisher/1LE7oe5KVZ/asmodee"
+      },
+      "primary_designer": {
+        "name": "Matthew Inman",
+        "id": "V5UoNos7lz",
+        "url": "https://www.boardgameatlas.com/designer/V5UoNos7lz/matthew-inman"
+      },
+      "names": [],
+      "tags": [
+        "Exploding Kittens Promo: edizione per neofiti"
+      ],
+      "publisher": null,
+      "rules_url": null,
+      "reddit_count": 0,
+      "official_url": null,
+      "comment_count": 0,
+      "num_user_ratings": 0,
+      "average_user_rating": 0,
+      "active": true,
+      "bgg_id": 246398,
+      "num_user_complexity_votes": 0,
+      "average_learning_complexity": 0,
+      "average_strategy_complexity": 0,
+      "visits": 42,
+      "lists": 1,
+      "plays": 0,
+      "mentions": 0,
+      "links": 0,
+      "rank": 9999999,
+      "type": "game",
+      "trending_rank": 0,
+      "listing_clicks": 0,
+      "is_historical_low": false,
+      "year_published": 2017,
+      "price_text": "Price: N/A",
+      "images": {
+        "thumb": "https://d2k4q26owzy373.cloudfront.net/40x40/games/empty+box.jpg",
+        "small": "https://d2k4q26owzy373.cloudfront.net/150x150/games/empty+box.jpg",
+        "medium": "https://d2k4q26owzy373.cloudfront.net/350x350/games/empty+box.jpg",
+        "large": "https://d2k4q26owzy373.cloudfront.net/700x700/games/empty+box.jpg",
+        "original": "https://s3-us-west-1.amazonaws.com/5cc.images/games/empty+box.jpg"
+      },
+      "description_preview": ""
+    },
+    {
+      "id": "sJ69NjOfxo",
+      "name": "Hidden Compartment Pack: Expansion for Cards Against Humanity and Exploding Kittens",
+      "handle": "hidden-compartment-pack-expansion-for-cards-against-humanity-and-exploding-kittens",
+      "url": "https://www.boardgameatlas.com/game/sJ69NjOfxo/hidden-compartment-pack-expansion-for-cards-against-humanity-and-exploding-kittens",
+      "price": "0.00",
+      "price_ca": "0.00",
+      "price_uk": "0.00",
+      "msrp": "0.00",
+      "discount": "0.00",
+      "min_players": 2,
+      "max_players": 20,
+      "min_playtime": null,
+      "max_playtime": null,
+      "min_age": 7,
+      "description": "",
+      "commentary": "",
+      "thumb_url": "https://s3-us-west-1.amazonaws.com/5cc.images/games/empty+box+thumb.jpg",
+      "image_url": "https://s3-us-west-1.amazonaws.com/5cc.images/games/empty+box.jpg",
+      "matches_specs": null,
+      "specs": [],
+      "mechanics": [],
+      "categories": [],
+      "developers": [],
+      "artists": [],
+      "designers": [],
+      "publishers": [],
+      "names": [],
+      "tags": [],
+      "publisher": null,
+      "rules_url": null,
+      "reddit_count": 0,
+      "official_url": null,
+      "comment_count": 0,
+      "num_user_ratings": 0,
+      "average_user_rating": 0,
+      "active": true,
+      "bgg_id": 232697,
+      "num_user_complexity_votes": 0,
+      "average_learning_complexity": 0,
+      "average_strategy_complexity": 0,
+      "visits": 14,
+      "lists": 15,
+      "plays": 0,
+      "mentions": 0,
+      "links": 0,
+      "rank": 9999999,
+      "type": "game",
+      "trending_rank": 0,
+      "listing_clicks": 0,
+      "is_historical_low": false,
+      "year_published": 2017,
+      "price_text": "Price: N/A",
+      "images": {
+        "thumb": "https://d2k4q26owzy373.cloudfront.net/40x40/games/empty+box.jpg",
+        "small": "https://d2k4q26owzy373.cloudfront.net/150x150/games/empty+box.jpg",
+        "medium": "https://d2k4q26owzy373.cloudfront.net/350x350/games/empty+box.jpg",
+        "large": "https://d2k4q26owzy373.cloudfront.net/700x700/games/empty+box.jpg",
+        "original": "https://s3-us-west-1.amazonaws.com/5cc.images/games/empty+box.jpg"
+      },
+      "description_preview": ""
+    }
+  ]
+}
