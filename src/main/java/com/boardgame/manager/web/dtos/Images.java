@@ -1,4 +1,4 @@
-package com.boardgame.manager;
+package com.boardgame.manager.web.dtos;
 
 public class Images {
     private String thumb;

@@ -1,4 +1,4 @@
-package com.boardgame.manager;
+package com.boardgame.manager.web.dtos;
 
 public class Primary_publisher {
     private String id;

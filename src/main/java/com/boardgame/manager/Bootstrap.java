@@ -1,5 +1,7 @@
 package com.boardgame.manager;
 
+import com.boardgame.manager.web.dtos.Game;
+import com.boardgame.manager.web.dtos.GameListDto;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -20,12 +22,11 @@ public class Bootstrap implements CommandLineRunner {
 
     @Override
     public void run(String... args) throws Exception {
-//        Quote quote = restTemplate.getForObject("https://gturnquist-quoters.cfapps.io/api/random", Quote.class);
-        Games games = restTemplate.getForObject("https://api.boardgameatlas.com/api/search?name=Exploding Kittens&client_id=JLBr5npPhV", Games.class);
-        log.info(String.valueOf(games.getGames().size()));
-        for(Game game : games.getGames()) {
+        String gameName = "Exploding Kittens";
+        GameListDto gameListDto = restTemplate.getForObject("https://api.boardgameatlas.com/api/search?name=" + gameName + "&client_id=JLBr5npPhV", GameListDto.class);
+        log.info(String.valueOf(gameListDto.getGames().size()));
+        for(Game game : gameListDto.getGames()) {
             log.info(game.getName());
         }
-        //        log.info(quote.toString());
     }
 }
