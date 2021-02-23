@@ -1,6 +1,6 @@
-package com.boardgame.manager.web.dtos;
+package com.boardgame.manager.responseDtos;
 
-public class Primary_publisher {
+public class Primary_designer {
     private String id;
     private String name;
     private String url;

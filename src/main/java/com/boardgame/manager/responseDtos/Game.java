@@ -1,4 +1,4 @@
-package com.boardgame.manager.web.dtos;
+package com.boardgame.manager.responseDtos;
 
 
 import lombok.Getter;
@@ -17,7 +17,7 @@ public class Game {
     private String price_ca;
     private String price_uk;
     private float msrp;
-    ArrayList< Object > msrps = new ArrayList < Object > ();
+    ArrayList< Object > msrps = new ArrayList <> ();
     private String discount;
     private float min_players;
     private float max_players;
@@ -29,17 +29,17 @@ public class Game {
     private String thumb_url;
     private String image_url;
     private String matches_specs = null;
-    ArrayList < Object > specs = new ArrayList < Object > ();
-    ArrayList < Object > mechanics = new ArrayList < Object > ();
-    ArrayList < Object > categories = new ArrayList < Object > ();
-    ArrayList < Object > developers = new ArrayList < Object > ();
-    ArrayList < Object > artists = new ArrayList < Object > ();
-    ArrayList < Object > designers = new ArrayList < Object > ();
-    ArrayList < Object > publishers = new ArrayList < Object > ();
+    ArrayList < Object > specs = new ArrayList <> ();
+    ArrayList < Object > mechanics = new ArrayList < > ();
+    ArrayList < Object > categories = new ArrayList <> ();
+    ArrayList < Object > developers = new ArrayList <> ();
+    ArrayList < Object > artists = new ArrayList <> ();
+    ArrayList < Object > designers = new ArrayList <> ();
+    ArrayList < Object > publishers = new ArrayList <> ();
     Primary_publisher Primary_publisherObject;
     Primary_designer Primary_designerObject;
-    ArrayList < Object > names = new ArrayList < Object > ();
-    ArrayList < Object > tags = new ArrayList < Object > ();
+    ArrayList < Object > names = new ArrayList <> ();
+    ArrayList < Object > tags = new ArrayList <> ();
     private String publisher;
     private String rules_url;
     private float reddit_count;
@@ -69,7 +69,7 @@ public class Game {
     private String description_preview;
 
 
-    // Getter Methods
+    // Getter Methods - underscore colides with lombok convention
 
     public Primary_publisher getPrimary_publisher() {
         return Primary_publisherObject;
@@ -83,7 +83,7 @@ public class Game {
         return ImagesObject;
     }
 
-    // Setter Methods
+    // Setter Methods - underscore colides with lombok convention
 
     public void setPrimary_publisher(Primary_publisher primary_publisherObject) {
         this.Primary_publisherObject = primary_publisherObject;

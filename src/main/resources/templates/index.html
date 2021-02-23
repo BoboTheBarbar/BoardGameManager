@@ -1,60 +1,65 @@
 <!DOCTYPE html>
 <html lang="en" xmlns:th="http://www.thymeleaf.org">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-
-    <title>Board Games</title>
+    <meta charset="UTF-8"/>
+    <title>Recipe Home</title>
 
     <!-- Latest compiled and minified CSS -->
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"
+          integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous"
+          th:href="@{/webjars/bootstrap/3.3.7-1/css/bootstrap.min.css}">
 
-    <!-- jQuery library -->
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="/webjars/jquery/1.11.1/jquery.min.js"></script>
 
-    <!-- Popper JS -->
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
-
-    <!-- Latest compiled JavaScript -->
-    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+    <!-- Latest compiled and minified JavaScript -->
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"
+            integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa"
+            crossorigin="anonymous" th:src="@{/webjars/bootstrap/3.3.7-1/js/bootstrap.min.js}"></script>
 </head>
 <body>
-<!--    <form action="/search">-->
-<!--        <label for="name">Search for Boardgame</label>-->
-<!--        <input type="text" id="name" name="name"><br><br>-->
-<!--        <input type="submit" value="Submit">-->
-<!--    </form>-->
-    <div class="container">
-        <h2>Striped Rows</h2>
-        <p>The .table-striped class adds zebra-stripes to a table:</p>
-        <table class="table table-striped">
-            <thead>
-            <tr>
-                <th>Name</th>
-                <th>Spielerzahl</th>
-                <th>Email</th>
+    <form action="/search">
+        <label for="name">Search for Boardgame</label>
+        <input type="text" id="name" name="name"><br><br>
+        <input type="submit" value="Submit">
+    </form>
+<!--    <div class="container">-->
+<!--        <h2>Striped Rows</h2>-->
+<!--        <p>The .table-striped class adds zebra-stripes to a table:</p>-->
+<!--        <table class="table table-striped">-->
+<!--            <thead>-->
+<!--            <tr>-->
+<!--                <th>Name</th>-->
+<!--                <th>Spielerzahl</th>-->
+<!--                <th>Email</th>-->
+<!--            </tr>-->
+<!--            </thead>-->
+<!--            <tbody>-->
+<!--            <tr>-->
+<!--                <td>John</td>-->
+<!--                <td>Doe</td>-->
+<!--                <td>john@example.com</td>-->
+<!--            </tr>-->
+<!--            <tr>-->
+<!--                <td>Mary</td>-->
+<!--                <td>Moe</td>-->
+<!--                <td>mary@example.com</td>-->
+<!--            </tr>-->
+<!--            <tr>-->
+<!--                <td>July</td>-->
+<!--                <td>Dooley</td>-->
+<!--                <td>july@example.com</td>-->
+<!--            </tr>-->
+<!--            </tbody>-->
+<!--        </table>-->
+<!--    </div>-->
+    <div class="container" th:if="${GameList != null}" th:text="${GameList.getGames().size()}">Anzahl Spiele nicht gefunden</div>
+    <div class="container" th:if="${GameList != null}">
+        <table>
+            <tr  th:each="game: ${GameList.getGames()}">
+                <td th:text="${game.getName()}">New game title</td>
             </tr>
-            </thead>
-            <tbody>
-            <tr>
-                <td>John</td>
-                <td>Doe</td>
-                <td>john@example.com</td>
-            </tr>
-            <tr>
-                <td>Mary</td>
-                <td>Moe</td>
-                <td>mary@example.com</td>
-            </tr>
-            <tr>
-                <td>July</td>
-                <td>Dooley</td>
-                <td>july@example.com</td>
-            </tr>
-            </tbody>
         </table>
     </div>
-    <div class="container" th:if="${gamename != null}" th:text="${gamename}">Spiel des Lebens</div>
-    <div class="container" th:if="${date != null}" th:text="${date}">2021</div>
+<!--    <div class="container" th:if="${gamename != null}" th:text="${gamename}">Gesuchter Spielename</div>-->
 </body>
 </html>
