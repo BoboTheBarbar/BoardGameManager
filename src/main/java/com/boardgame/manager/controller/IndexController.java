@@ -1,30 +1,24 @@
 package com.boardgame.manager.controller;
 
-import com.boardgame.manager.Bootstrap;
 import com.boardgame.manager.responseDtos.GameListDto;
-import org.slf4j.Logger;
-import org.slf4j.LoggerFactory;
-import org.springframework.beans.factory.annotation.Autowired;
+import lombok.extern.slf4j.Slf4j;
 import org.springframework.boot.web.client.RestTemplateBuilder;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.GetMapping;
-import org.springframework.web.bind.annotation.PostMapping;
+import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.client.RestTemplate;
 
-import java.time.Instant;
 
 @Controller
+@Slf4j
+@RequestMapping(value = "/index")
 public class IndexController {
 
     private static final String VIEW = "index";
 
-//    @Autowired
     RestTemplate restTemplate;
-    private Logger log = LoggerFactory.getLogger(Bootstrap.class);
-
-//    @Autowired
     RestTemplateBuilder restTemplateBuilder;
 
     public IndexController(RestTemplate restTemplate, RestTemplateBuilder restTemplateBuilder) {
@@ -32,18 +26,9 @@ public class IndexController {
         this.restTemplateBuilder = restTemplateBuilder;
     }
 
-    @GetMapping("/index")
+    @GetMapping
     public String getIndexPage(Model model) {
         log.info("requesting index page...");
-        System.out.println("hi");
-        model.addAttribute("hi", "hihi");
-        return VIEW;
-    }
-
-    // Todo: Work in progress.
-    @PostMapping({"/search","search"})
-    public String suche(@RequestParam("name") String name, Model model) {
-        model.addAttribute("gamename", name);
         return VIEW;
     }
 
